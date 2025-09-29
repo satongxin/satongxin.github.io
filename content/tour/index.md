@@ -28,6 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+         - title: AAA
+        content: 'BBB'
+        align: left
+        background:
+          image:
+            filename: 165646849.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
