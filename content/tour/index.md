@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 1656468649.jpg
             filters:
               brightness: 0.7
           position: right
@@ -24,16 +24,6 @@ sections:
         background:
           image:
             filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-         - title: AAA
-        content: 'BBB'
-        align: left
-        background:
-          image:
-            filename: 1656468649.jpg
             filters:
               brightness: 0.7
           position: center
